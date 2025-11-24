@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Credit Risk Scoring project. 
+- 🌱 I have recently finished Graduate certificate in Data Science from WSU Sydney
+
+
 <!--
 **iamayur/iamayur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
